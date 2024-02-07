@@ -11,6 +11,6 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar-light.png")
   } else {
     // se tiver sem loight mode, manter a imgem normal
-    img.setAttribute("src", "./assets/avatar.png")
+    img.setAttribute("src", "./assets/avatarjhonii.png")
   }
 }
